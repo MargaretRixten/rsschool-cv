@@ -1,5 +1,6 @@
 # Margarita Abdullina
 
+![](https://avatars.githubusercontent.com/u/101560052?s=96&v=4)
 ---
 
 ### Junior Frontend Developer
@@ -13,6 +14,8 @@
 **E-mail:** vinolin@bk.ru
 
 **Telegram:** @VinolinBright
+
+**Discord:** Winolin#3160
 
 [LinkedIn](https://www.linkedin.com/in/vinolin-bright-04328225b/ "LinkedIn")
 
@@ -70,17 +73,27 @@ function XO(str) {
 ### Courses:
 
 
-[Udemy: Web-разработчик 2022](https://www.udemy.com/course/webdeveloper/ "Web-разработчик 2022")
+* [Udemy: Web-разработчик 2022](https://www.udemy.com/course/webdeveloper/ "Web-разработчик 2022")
 
-[Udemy: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата")
+* [Udemy: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата")
 
-[Лущенко Александр: Функции в JavaScript](https://www.youtube.com/watch?v=XahVQOfnj_o&list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE "Функции в JavaScript")
+* [Лущенко Александр: Функции в JavaScript](https://www.youtube.com/watch?v=XahVQOfnj_o&list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE "Функции в JavaScript")
 
-[Арчаков: React Pizza v2](https://www.youtube.com/watch?v=_UywBskWJ7Q&list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&ab_channel=ArchakovBlog "React Pizza v2")
+* [Арчаков: React Pizza v2](https://www.youtube.com/watch?v=_UywBskWJ7Q&list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&ab_channel=ArchakovBlog "React Pizza v2")
 
-[RS Schools Course «JavaScript/Front-end 2023Q1»](https://app.rs.school/ "JavaScript/Front-end 2023Q1")  (in progress)
+* [RS Schools Course «JavaScript/Front-end 2023Q1»](https://app.rs.school/ "JavaScript/Front-end 2023Q1")  (in progress)
 
 ---
+
+### Projects:
+
+* [Ya-bao-react-delivery](https://github.com/MargaretRixten/ya-bao-react-delivery "ya-bao-react-delivery")
+
+* [Pizza-react-project](https://github.com/MargaretRixten/pizza-react-project "Pizza-react-project")
+
+* [LadeSign](https://github.com/MargaretRixten/Portfolio "LadeSign")
+
+
 
 ### Languages:
 

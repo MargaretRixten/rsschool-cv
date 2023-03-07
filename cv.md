@@ -87,11 +87,20 @@ function XO(str) {
 
 ### Projects:
 
-* [Ya-bao-react-delivery](https://github.com/MargaretRixten/ya-bao-react-delivery "ya-bao-react-delivery")
+1. I used html5, css3 and vanilla js in LadeSign project. I added modals and menu-burger. 
+They are opened by JS. Also I did adaptive for this project
+
+2. I used React and redux-toolkit in this project. I created store and slices. I made this project with the help of video
+
+3. I did the third project myself. I consolidated on this project what I learned in the course
+
+* [LadeSign](https://github.com/MargaretRixten/Portfolio "LadeSign")
 
 * [Pizza-react-project](https://github.com/MargaretRixten/pizza-react-project "Pizza-react-project")
 
-* [LadeSign](https://github.com/MargaretRixten/Portfolio "LadeSign")
+* [Ya-bao-react-delivery](https://github.com/MargaretRixten/ya-bao-react-delivery "ya-bao-react-delivery")
+
+
 
 
 
